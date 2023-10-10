@@ -1,7 +1,7 @@
 {
-    "name": "xlicon",
+    "name": "𝗦𝗢𝗥𝗔",
     "version": "1.0.0",
-    "description": "Xlicon is a WhatsApp multiDevice Bot based on A17 and Baileys written in Javascript.",
+    "description": "𝗦𝗢𝗥𝗔 after 𝗞𝗔𝗭𝗘",
     "main": "index.js",
     "directories": {
         "lib": "lib"
@@ -17,7 +17,7 @@
     "keywords": [
         "md-bot"
     ],
-    "author": "Slasher",
+    "author": "𝗞𝗔𝗭𝗘",
     "license": "MIT",
     "bugs": {
         "url": "https://github.com/ahil15/Xlicon-v2issues"
